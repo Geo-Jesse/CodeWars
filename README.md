@@ -1,2 +1,2 @@
 # CodeWars
-Solutions to Code Wars Challenges - Javascript
+My Solutions to Code Wars Challenges (Javascript)
